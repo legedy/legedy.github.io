@@ -14,6 +14,7 @@ body{
 
 div, section, span, ul, li, a, header{
 	box-sizing: border-box;
+	overflow-x: hidden;
 }
 
 /*css reset*/
